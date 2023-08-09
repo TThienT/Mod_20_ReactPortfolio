@@ -6,35 +6,18 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
+      name: 'Daily Dungeon',
+      description: 'REACT',
+      link: "https://fathomless-brook-62747-69ac2fbd8802.herokuapp.com/",
+      repo: "https://github.com/jmcconna/Daily-Dungeon.git"
+    },
+    {
       name: 'Note Taker',
-      description: 'Javascript',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'Tech Blog',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'Add Project',
       description: 'Add Descrip',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://afternoon-harbor-51161.herokuapp.com/notes",
+      repo: "https://github.com/TThienT/Mod_11-Note-Taker"
     },
-    {
-      name: 'Add Project',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'Add Project',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
+
   ]);
 
   return (

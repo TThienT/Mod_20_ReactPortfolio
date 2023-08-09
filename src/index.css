@@ -3,15 +3,16 @@ main {
   max-width: 90%;
   padding: 50px 30px;
 }
+
 :root {
-  --primary: #8c54ff;
-  --secondary: #31343D;
-  --tertiary: #b12704;
-  --light: #fafafa;
-  --dark: #799FBA;
-  --darker: #1F3B60;
-  --alpha: rgba(255,255,255,.7);
-  --error: rgb(228, 46, 1);
+  --primary: #FF6B6B; /* A vibrant red */
+  --secondary: #1E272E; /* A deep blueish-gray */
+  --tertiary: #F4D35E; /* A warm yellow */
+  --light: #F7FFF7; /* A very light green */
+  --dark: #2B2B2B; /* A dark gray */
+  --darker: #141414; /* An even darker gray */
+  --alpha: rgba(255, 255, 255, 0.7);
+  --error: #B80C09; /* A dark red */
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
   --spacing-five: calc(2.5rem);

@@ -8,10 +8,10 @@ function About() {
         <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-        Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
+        Recent React developer graduate with a strong academic foundation in web development. Proficient in creating dynamic user interfaces using React.js. Skilled in optimizing performance and ensuring cross-browser compatibility. Collaborated on projects showcasing clean code and user-centered design. Eager to contribute my skills and enthusiasm to a growth-oriented team. Let's connect and create remarkable web experiences together!
         </p>
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+        I'm particularly proud of my accomplishment in leading a team project where we developed a responsive e-commerce platform using React. This experience enhanced my problem-solving abilities and taught me the value of effective collaboration. As I continue my journey, I'm excited to tackle new challenges and contribute to innovative solutions in the world of web development. Let's collaborate and bring more success to the table!
         </p>
       </div>
     </section>
